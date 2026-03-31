@@ -9,6 +9,13 @@ This project represents a significant step forward in my early learning path. Af
 
 ---
 
+### Screenshot
+
+![](./img/Screenshot1.jpg)
+![](./img/Screenshot2.jpg)
+
+---
+
 ## 📋 Evolution & Context Note
 > ⚠️ **Note on my trajectory:** This repository serves as a record of my technical growth and is not indicative of my current Fullstack capabilities. In this specific project, I transitioned from using fixed pixels to **relative units (rem)** and made my first incursions into **CSS Grid** and **Media Queries**. It marks the moment I began thinking about responsiveness and code reusability.
 
