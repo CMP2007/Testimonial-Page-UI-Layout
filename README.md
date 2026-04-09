@@ -1,5 +1,8 @@
 # Testimonial Page: UI Layout
 
+> [!Note]
+>> This repository contains a legacy project from my early days as a programmer
+
 This project represents a significant step forward in my early learning path. After mastering basic positioning, I moved on to exploring modern layout techniques and relative sizing to create more scalable components.
 
 ---
